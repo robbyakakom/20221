@@ -1,0 +1,10 @@
+Tugas :
+1. install visual studio code di komputer/laptop Anda masing-masing
+2. install python 
+    jalankan perintah python --version
+
+hasil dikumpulkan
+1. screen shoot tampilan VS Code
+2. screen perintah python --version
+
+format .pdf, .jpg, .png

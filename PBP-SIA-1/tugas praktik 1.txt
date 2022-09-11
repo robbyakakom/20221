@@ -1,0 +1,10 @@
+Tugas Praktik :
+1. Install Visual Studi Code
+2. Install Python
+    jalankan perintah python --version
+
+Hasil dikumpulkan
+1. Screen shoot tampilan Visual Studio Code
+2. Screen shoot tampilan hasil perintah python --version
+
+format .pdf, .jpg, .png
