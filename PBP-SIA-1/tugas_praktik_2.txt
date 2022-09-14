@@ -1,0 +1,26 @@
+Gunakan bahas python untuk menampilkan program seperti berikut
+
+PROGRAM HITUNG NILAI
+=================================
+NIM : [input]
+Nama : [input]
+Nilai Tugas : [input 0-100]
+Nilai UTS : [input 0-100]
+Nilai UAS : [input 0-100]
+Nilai Akhir : [output 0-100]
+Nilai Huruf : [output A,B,C,D,E]
+=================================
+
+Rumus : 
+Nilai Akhir : 30% x Tugas + 30% x UTS + 40 % x UAS
+Nilai Huruf :
+Jika Nilai Akhir >= 80 maka Nilai Huruf A
+Jika Nilai Akhir >= 60 dan < 80 maka Nilai Huruf B
+Jika Nilai Akhir >= 40 dan < 60 maka Nilai Huruf C
+Jika Nilai Akhir >= 20 dan < 40 maka Nilai Huruf D
+Selain itu Nilai Akhir E
+
+Hasil :
+- screen shoot hasil tampilan dan listing
+- penjelasan listing
+- format .pdf
