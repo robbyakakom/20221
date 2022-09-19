@@ -19,3 +19,6 @@ else :
 # nama = input("Masukkan nama Anda ?")
 # print("Nama " + nama)
 
+###
+print("cona")
+
