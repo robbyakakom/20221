@@ -1,0 +1,17 @@
+Tugas Praktik :
+Dengan menggunakan paradigma impertatif, memprogram penjualan barang
+
+#Algoritma Program penjualan barang
+1) Deklarasikan variabel nama_barang:str, jumlah_barang:int, harga_barang:int, potongan(diskon):float, besar_potongan: float, total_bayar:float, total:int
+2) Inputkan nama_barang, jumlah_barang, harga_barang, potongan(diskon)
+3) Proses hitung total = jumlah_barang X harga_barang 
+4) Proses hitung besar_potongan = potongan(diskon) x total
+5) Proses hitung total_bayar = total - besar_potongan
+6) Tampilkan total, besar_potongan, total_bayar
+
+Hasil diserahkan 
+1. source code / listing program
+2. screen shoot hasil tampilan program
+3. flowchart
+4. berikan penjelasan
+
