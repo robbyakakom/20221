@@ -1,0 +1,32 @@
+Tugas Rumah
+===========
+1. buat data koleksi 2 dimensi atau tabel (list dan dictionary) untuk data nilai field : NamaMatakuliah, NilaiTugas, NilaiUTS, NilaiUAS  (minimal 5 record)
+
+2. buat field / item baru 
+    NilaiAngka = 30% x NilaiTugas + 30% x NilaiUTS + 40% x NilaiUAS
+    NilaiHuruf 
+        Jika NilaiAngka >= 80 maka A 
+        Jika NilaiAngka >= 60 dan NilaiAngka < 80 maka B 
+        Jika NilaiAngka >= 40 dan NilaiAngka < 60 maka C 
+        Jika NilaiAngka >= 20 dan NilaiAngka < 40 maka D  
+        Selain itu  maka E 
+
+3. buat tampilan cetak
+
+DAFTAR NILAI MATA KULIAH
+----------------------------------------------------------------------------
+NamaMatakuliah  NilaiTugas   NilaiUTS   NilaiUAS    NilaiAngka    NilaiHuruf
+----------------------------------------------------------------------------
+Algoritma       80           80          80          80             A 
+Algoritma       80           80          80          80             A 
+Algoritma       80           80          80          80             A 
+Algoritma       80           80          80          80             A 
+Algoritma       80           80          80          80             A 
+----------------------------------------------------------------------------
+
+Format Hasil dikumpulkan 
+1. bentuk .pdf
+2. listing / source code
+3. screen shoot tampilan Hasil
+4. penjelasan
+
