@@ -1,0 +1,21 @@
+ubah hasil tugas pertemuan 2 dengan menambahkan perulangan 
+tampilan seperti berikut
+
+PROGRAM HITUNG NILAI
+=================================
+NIM : [input]
+Nama : [input]
+Nilai Tugas : [input 0-100]
+Nilai UTS : [input 0-100]
+Nilai UAS : [input 0-100]
+Nilai Akhir : [output 0-100]
+Nilai Huruf : [output A,B,C,D,E]
+=================================
+Apakah akan isi data lagi ? [Y/T]
+
+Hasil dikumpulkan 
+1. format file .pdf
+2. souce code / listing
+3. screen shoot tampilan
+4. buat flowchart programmnya
+5. penjelasan
