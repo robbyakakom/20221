@@ -1,0 +1,12 @@
+Tugas Rumah :
+1. Buatlah file json, xml dan csv tentang data nilai
+   field/atribut : NamaMatakuliah, NilaiAngka, NilaiHuruf
+   minimal 5 baris data
+
+2. dengan python tampilkan file data matakuliah soal 1 (file json, xml, csv)
+
+hasil dikumpulkan 
+1. format pdf
+2. source code
+3. listing
+4. penjelasan

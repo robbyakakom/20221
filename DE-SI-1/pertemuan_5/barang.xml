@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<penjualan>
+    <barang>
+        <kode>K-009</kode>
+        <nama>Kemeja</nama>
+        <jumlah>9</jumlah>
+        <harga>98000</harga>
+    </barang>
+    <barang>
+        <kode>C-001</kode>
+        <nama>Celana</nama>
+        <jumlah>10</jumlah>
+        <harga>108000</harga>
+    </barang>  
+    <barang>
+        <kode>K-003</kode>
+        <nama>Kaos</nama>
+        <jumlah>6</jumlah>
+        <harga>50000</harga>
+    </barang>         
+</penjualan>

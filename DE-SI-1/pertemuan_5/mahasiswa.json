@@ -1,0 +1,14 @@
+{
+    "mahasiswa" : [
+        {
+            "nim":"099",
+            "nama":"budi",
+            "prodi":"si"
+        },
+        {
+            "nim":"100",
+            "nama":"bani",
+            "prodi":"si"
+        }
+    ]
+}

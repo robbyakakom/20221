@@ -1,5 +1,5 @@
 ubah hasil tugas pertemuan 2 dengan menambahkan perulangan 
-tampilan seperti berikut
+tampilan hasil menjadi seperti berikut
 
 PROGRAM HITUNG NILAI
 =================================
