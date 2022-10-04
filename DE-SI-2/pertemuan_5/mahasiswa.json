@@ -1,0 +1,19 @@
+{
+    "mahasiswa" : [
+        {
+            "nim" : "0099",
+            "nama" : "Dedi",
+            "prodi" : "SI"
+        },
+        {
+            "nim" : "0010",
+            "nama" : "Dani",
+            "prodi" : "SI"
+        },
+        {
+            "nim" : "0011",
+            "nama" : "Dika",
+            "prodi" : "SI"
+        }
+    ]
+}

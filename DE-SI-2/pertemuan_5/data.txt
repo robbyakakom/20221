@@ -1,0 +1,3 @@
+ini isi data teks
+tambah baris baru
+tambah baris baru 2

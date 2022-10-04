@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<kelas>
+    <mahasiswa>
+        <nim>09999</nim>
+        <nama>Amir</nama>
+        <prodi>SI</prodi>
+    </mahasiswa>
+    <mahasiswa>
+        <nim>010001</nim>
+        <nama>Budi</nama>
+        <prodi>SI</prodi>
+    </mahasiswa>
+    <mahasiswa>
+        <nim>020003</nim>
+        <nama>Cika</nama>
+        <prodi>Informatika</prodi>
+    </mahasiswa>
+</kelas>
